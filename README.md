@@ -1,16 +1,14 @@
-## Hi there 👋
+Sterling Alexander
 
-<!--
-**salexander-git/salexander-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer working in systems and data. M.S. in Computer Science from RIT (August 2026). Based in Rochester, NY, and open to relocating.
 
-Here are some ideas to get you started:
+I like problems where "correct" can be checked: against an independent reference, by a test that would have caught the bug, or by a number that traces back to the file that produced it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured work
+
+caprm-flood: exact nearest-neighbour search over 1,189,589 line-segment and polygon-boundary entries, built five ways in C++ and validated field-for-field against a Python reference across 267,362 properties. M.S. capstone; CI-tested.
+joclim-check (private): a Python tool I use for technical pre-screening of journal submissions. It turns a package of Word and PDF files into an author feedback letter and a tracked-changes .docx, with 145 checks and 4,563 passing tests. Happy to walk through it on request.
+
+Languages: C++, C, Rust, Python, Java, SQL
+
+LinkedIn
